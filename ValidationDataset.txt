@@ -1,0 +1,983 @@
+Nobody is riding the bicycle on one wheel	A person is riding the bicycle on one wheel	4.1
+There is no man dunking the ball at a basketball game	The player is dunking the basketball into the net and a crowd is in background	3.5
+Kids in red shirts are playing in the leaves	Three kids are jumping in the leaves	3.9
+Children in red shirts are playing in the leaves	Three kids are jumping in the leaves	4
+Two children are lying in the snow and are drawing angels	Two children are lying in the snow and are making snow angels	4.4
+Two children are lying in the snow and are making snow angels	Nobody in snowsuits is lying in the snow and making snow angels	3.6
+Two people in snowsuits are lying in the snow and making snow angels	Two angels are making snow on the lying children	2.5
+A little girl is looking at a woman in costume	People wearing costumes are scattering in a forest and are looking in different directions	2.4
+A man is jumping into an empty swimming pool	A man is jumping into an empty pool	4.8
+A man is jumping into an empty pool	There is no biker jumping in the air	1.2
+Four girls are doing backbends and playing outdoors	Four children are doing backbends in the park	4.1
+Five children are standing in front of a wooden hut	Five children are standing in front of a hut made of wood	4.8
+Five wooden stands are in front of each child's hut	Five children are standing in front of a wooden hut	3.2
+A person is sitting in a field and is wearing a hat	A man is sitting in a field	4
+The current is being ridden by a group of friends in a raft	A group of friends are riding the current in a raft	4.9
+Nobody is practicing water safety and wearing preservers	This group of people is practicing water safety and wearing preservers	3.4
+A deer is jumping over a fence	A deer is jumping over the enclosure	4.535
+A deer is jumping over a fence	A deer isn't jumping over the fence	3.9
+Several people are in front of a building which is covered by colors	Several people are in front of a colorful building	4.7
+A boy is hitting a baseball	A child is hitting a baseball	4.4
+A family is watching a little boy who is hitting a baseball	A child is hitting a baseball	4.1
+Few people are eating at red tables in a restaurant without lights	A large group of Asian people is eating at a restaurant	2.6
+A purple crowd of people is eating on various red lit restaurant tables	A large group of Asian people is eating at a restaurant	3.1
+Someone is on a black and white motorcycle and is standing on the seat	A motorcycle rider is standing up on the seat of a white motorcycle	3.7
+Two dogs are playing by a tree	There is no dog leaping in the air	2.7
+The woman is not wearing glasses or a headdress	The woman is wearing glasses and a black headdress	3.9
+The woman is wearing glasses and a black headdress	A woman is wearing an Egyptian headdress	3.8
+A man is on a rock high above some trees and is standing in an uncomfortable position	A man is on a rock high above some trees and is standing in a strange position	4.2
+A man is on a rock high above some trees and is standing in a strange position	A hiker is on top of the mountain and is doing a joyful dance	2.9
+A cowboy is riding a horse and cornering a barrel	A cowgirl is riding a horse and corners a barrel	4.1
+A cowboy is riding a horse and cornering a barrel	The brown horse is near a red barrel at the rodeo	3.7
+The kid is swimming through the blue ocean	The boy is wading through the blue ocean	4.2
+Two girls are lying on the ground	Several children are sitting down and have their knees raised	2.8
+A nude lady is walking in front of a crowd in body paint	There is no lady walking in body paint in front of a crowd 	2.9
+A man is pointing at a silver sedan	A man is in a parking lot and is playing tennis against a large wall	1.3
+A girl with a black bag is on a crowded train	A cramped black train is on the bag of a girl	2.7
+Two dogs are running and carrying a toy in their mouths	A dog is chasing another and is holding a stick in its mouth	4.2
+Two dogs are running and carrying an object in their mouths	A dog is chasing a stick and holding another dog in its mouth	3.2
+A man is resting on a chair and rubbing his eyes	A man with tattoos is lounging on a couch and holding a pencil	2.5
+A brown and white dog is running through the tall grass	A black and tan dog is running through the low and green grass	3.8
+There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something	A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something	4.1
+A man is sitting near a bike and is writing a note	A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something	3.7
+Two men are taking a break from a trip on a snowy road	Two men with cars are on the side of a snowy road	4
+Two men are standing near the water and are holding fishing poles	Two men are standing near the water and are holding tools used for fishing	4.5
+There is no man standing near the water and holding fishing poles	Two men are holding fishing poles	3.2
+Two men are standing near the water and are holding fishing poles	Two men are holding fishing poles and fishing tackle	3.9
+Two men are not holding fishing poles	Two men are standing near the water and are holding fishing poles	3.6
+A blonds girl is surfing	A blond girl is riding the waves	4.7
+There is no man performing a trick on a green bicycle	A man dressed in black is riding a bike	2.8
+A black person is running along a white stand and a dog barks behind him	The black and white dog is running and a person stands behind it	2.4
+The black and white dog is running and a person stands behind it	A little dog is sprinting and its owner is trying to catch it	3.3
+A man wearing a dyed black shirt is sitting at the table and laughing	A person is sitting comfortably at the table	3
+A woman who is taking off a pink boa is stopping her bicycle on a bridge built for pedestrians	A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians	3.7
+A black helmet is being worn by a man who is pushing a bicycle	One man is wearing a black helmet and pushing a bicycle	4.8
+One man is wearing a black helmet and pushing a bicycle	A biker is naked	2.6
+A biker is wearing gear which is black	One man is wearing a black helmet and pushing a bicycle	3.3
+A dark black dog and a light brown dog are fighting in the backyard	A dog, which is brown, and a black one are running in the grass	3.6
+A dark black dog and a light brown dog are playing in the backyard	A black man is running in brown grass and racing a dog	2
+A white and brown dog is walking through the water with difficulty	A dog that has a brown and white coat is trotting through shallow water	3.7
+The children aren't playing in front of a large door	A group of boys are playing with a ball in front of a large door made of wood	3.4
+A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling	There is no young lady with light brown hair wearing a red necklace, a sweatshirt and earrings and smiling	3.7
+A teenage girl is wearing beads that are red	A red sweatshirt with a smiling lady upon it is suited to be worn with light brown hair, earrings and a necklace 	1.915
+A climbing boy rescues the fearful cat from over the wall	A fearful little boy is on a climbing wall	2.8
+The man is tossing a kid into the swimming pool that is near the ocean	One man is tossing a kid into the swimming pool that is near the ocean	4.8
+A father is taking away his daughter from a swimming pool	The man is tossing a kid into the swimming pool that is near the ocean	2.9
+A person is standing in front of a rock with a rope, which is pink	A person is climbing a rock with a rope, which is pink	3.9
+A rock is being climbed by a person with a rope, which is pink	One man is climbing a cliff with a rope	4.3
+A young child is climbing a rock climbing wall which is indoors	A young kid is climbing a rock climbing wall which is indoors	4.7
+A young child is under a rock climbing wall which is indoors	The young boy is climbing the wall made of rock	3.4
+One man is doing a bicycle trick in midair	A man is failing to perform a bicycle trick in midair	3.5
+A dog next to a tree, which is probably a pine, is biting a bucket	A dog in a bucket is biting a tree which is probably a pine	3.2
+A dog which is furry and black is in a back yard and is carrying a basket in its mouth	A dog in the backyard is carrying black fur in a basket in its mouth.	3.9
+Two large park benches have a person sitting and a bottle of soda between them	Two large persons are sitting on a park bench and they have a bottle of soda between them	3.7
+A man and a woman are sitting comfortably on the bench	Two persons of large size are sitting on a park bench and they have a bottle of soda between them	3.3
+A few men in a competition are running outside	A few men in a competition are running indoors	3.9
+The bride and the groom are arriving after the wedding	The bride and the groom are leaving after the wedding	4.3
+A married couple is walking down the aisle	The bride and the groom are leaving after the wedding	3.4
+The presentation isn't being watched by a classroom of students	The presentation is being watched by a classroom of students	4.4
+A dog is excitedly playing with water in the grass	The dog is biting some droplets of water	3.2
+A dog is excitedly playing with water in the grass	A snap is depicting some water falling in droplets on the dog	2.9
+A dog is excitedly playing with water in a field	The dog is snapping at some droplets of water	3.65
+Two men are walking two dogs with golden coats in the snow	Two people are walking two dogs with golden coats in the snow	4.6
+Two people are in the snow, wearing clothes that provide camouflage	Two people are in the snow holding two dogs with golden coats	2.6
+A girl is wearing a t-shirt and has her mouth open.	A girl has a t-shirt and is keeping her mouth open	4.6
+The football is between the feet of a boy who is lying on the grass	The little kid is playing football and falling harmlessly into the grass	3.4
+A woman with a ponytail is climbing a wall of rock	A woman is tailing a pony near a rock climbing wall	2.9
+One white dog and one black one are cheerfully running side by side on the grass	A black and a white dog are joyfully running on the grass	4.4
+An ice skating rink placed outdoors is full of people	A lot of people are in an ice skating park	4.5
+A young child is wearing green boots and playing in a puddle full of mud	A little boy is jumping into a puddle on the street	3.8
+Some corndogs are being eaten by two toddlers who are in a wagon, which is really small	Two toddlers are eating corndogs in a wagon, which is really small	4.8
+Two toddlers are sleeping in a wagon, which is really small	Two toddlers are eating corndogs in a wagon, which is really small	3.4
+A man is getting on a horse on a track laid in the wild	A horse is tossing the cowboy wearing pants of blue and red color	2.1
+The cowboy in blue and red pants is being tossed by a horse	A man is falling off a horse on a track and is laid in the wild	3.1
+A talk about an adult and a boy is given in the amphitheater	The man and the boy are standing at the bottom of the stairs, which are outdoors	1.5
+A boy is standing in front of the building painted blue, in the space reserved for handicapped people	A boy is standing in front of the blue building in the space reserved for handicapped people	4.8
+A boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera	A boy is standing in front of the blue building in the space reserved for handicapped people	2.4
+The Jockeys are racing horses on the field, which is completely green	A few horses are racing furiously over the green grass and jumping the obstacle	3.5
+The snowboarder is leaping fearlessly over white snow	The snowboarder is leaping over white snow	4.5
+A person who is practicing snowboarding jumps into the air	A leap over white snow is greatly appealing to the snowboarders	2.9
+A dog, which is small, is playing on the green grass	A dog is near a ball colored in red, which is in the air	2.4
+A girl is wearing a pink shirt with white writing on it and is lying in the grass	The young girl with a pink shirt isn't peacefully lying on the grass	3.7
+The young peaceful girl is lying about the grass found in the pink shirt	A girl is wearing a pink shirt with white writing on it and is lying in the grass	3.6
+A dog, which is large and gray, is carrying a ball in its mouth and running across the grass	A dog of large size is running on the grass with a tennis ball in its mouth	4.2
+A man is singing and playing the guitar	A man who is wearing headphones is opening a package 	1.9
+The turtle is following the red fish	The turtle is following the fish	4.6
+A fish is hunting for a turtle in the sea	The turtle is following the fish	3.5
+A man is driving a car	The car is being driven by a man	5
+A man is playing a piano at a concert	A man is playing a piano	4.5
+There is no man playing a guitar	A man is playing a piano	3.2
+A woman is removing ingredients from a bowl	A woman is adding ingredients to a bowl	3.3
+A woman is cracking some eggs into a bowl	A woman is removing ingredients from a bowl	3.5
+A woman is cooking prawns	A woman is boiling shrimps	4.1
+A man is speaking on a podium	A podium is where a man is speaking	4.8
+A man is speaking on a podium	There is no man speaking on a stage	3.4
+A woman is talking on a telephone	Two boys are not talking on the phone	3.3
+A woman is talking on a telephone	Two boys are talking on the phone	3.1
+A band is performing onstage	A band is performing on a stage	5
+A man is mowing a lawn	A man is not mowing a lawn	4.4
+A man is sitting	A man is dancing	2.7
+A cat is stuck on a ceiling fan that is moving	A cat is stuck on a moving ceiling fan	5
+A man is playing soccer	A soccer man is playing piano	2.6
+There is no man playing flute	A man is playing soccer	1.1
+A boy is spanking a man with a toy weapon	A boy is whacking a man with a sword	4.1
+The lady is measuring the ankle of another woman	A woman is being measured by another woman	4.4
+A man is hanging up the phone	A man is making a phone call	3.8
+A cute puppy is repeatedly rolling from side to side on its back	A dog is rolling from side to side	4.3
+There is no dog rolling from side to side	A puppy is repeatedly rolling from side to side on its back	3.8
+A man is rinsing a large steak	A man is rinsing a large piece of meat	4.6
+A man is rinsing a large steak	A man is not rinsing a large steak	3.4
+Some men are sawing	Men are sawing	4.8
+A woman is brushing her hand	A woman is chopping an onion	1.5
+A man is playing a guitar	A musician is playing a keyboard	2.3
+A man is exercising	A happy baby is laughing	1
+Three young men are running, jumping and kicking near a vending machine	There is no man running, jumping and kicking near a vending machine	3.8
+A deer is standing inside a fence	The deer is jumping over the fence	3.5
+The oil is being stirred by a man	The man is stirring oil	4.9
+A woman is dancing alone	A few women are holding each other and dancing together	3.5
+A woman is cutting broccoli	A woman is slicing vegetables	4.2
+A woman is cutting a white onion	A horse is standing	1
+A white horse is standing	A woman is cutting an onion	1
+A cat is playing a keyboard	There is no man playing two keyboards	2.5
+A cat is playing a piano	A man is playing two keyboards	2.3
+A man is picking up a tree	A tree is being picked up by a man	4.9
+A man is playing the guitar	A person is listening to a trumpet playing	1.5
+A man is pouring liquid into a pot	The chef is carefully drying the oil from the pan	2.3
+A man is pouring liquid into a pot	The chef is carefully pouring some oil into a pan	4.1
+The man is typing on a machine used for stenography	A man is typing on a machine used for stenography	5
+A man is typing on a machine used for stenography	The man isn't operating a stenograph	3.7
+A snake is being fed a mouse by a man	No snake is being fed a mouse by a man	4.7
+A poor man is being fed snakes and mice	The man is cautiously feeding a mouse to the snake	2.1
+The man is cautiously feeding a mouse to the snake	A snake is being fed a mouse by a man	4.9
+A person is bowling the ingredients to the man at the mixer	Some ingredients are being mixed in a bowl by a person	2.8
+There is no girl jumping into the car	One girl is jumping on the car	3.9
+A girl is on a jumping car	The girl is recklessly jumping onto a car	4
+The milk is being drunk by a cat	The cat is drinking some milk	5
+A little cat is drinking fresh milk	The milk is being drunk by a cat	4.2
+A kitten is drinking fresh milk	There is no milk being drunk by a cat	3.7
+A kitten is drinking fresh milk	The milk is being drunk by a cat	4.2
+A man is carelessly holding a frog	A man is emptying a container made of plastic completely	1.4
+A man is slicing an onion	The onion is being cut by the man	5
+An onion is being sliced by a man	An onion is being cut by a man	4.8
+The woman is riding the elephant	A man is recklessly riding a horse	1.8
+Someone is giving food to an animal	Nobody is feeding an animal	3.6
+A man is pushing the buttons of a microwave	The buttons of a microwave are being pushed by a man	4.8
+A man is pushing the buttons of a microwave	A man is being pushed toward the buttons of a microwave	2.8
+A girl is making a flute which is not to be played	One woman is playing a flute	2.7
+A boy is happily playing the piano	A piano is being played by a man	3.8
+A cheetah is breathlessly chasing its prey across a field	A cheetah is quickly running behind its prey.	4.6
+A lion is slowly walking	A lion is tiring the whole pen by pacing	4.1
+A flute is being played by a man	The flute is being played by one man	4.9
+A man is playing the guitar loudly	A flute isn't being played by a man	2.4
+Some bells are ringing near a cook slicing peppers	The person is dicing up a pepper which is orange	2.3
+There is no man sitting on the chair	The girl, who is little, is combing her hair into a pony tail.	1
+The girl, who is little, is carefully combing her hair into a pony tail	One man is sitting on the chair	1
+A man is carelessly smearing butter on a slice of garlic flavored bread 	The man is carelessly smearing butter on a slice of garlic bread	4.8
+A man is spreading butter on a piece of bread which is big	A man is carelessly smearing butter on a slice of garlic flavored bread 	4
+The parrot is talking into the microphone	The parrot is silent in front of the microphone	3.6
+The microphone in front of the talking parrot is being muted	A parrot is speaking	3.1
+The food on the trays is being eaten by the kittens	The kittens are eating the food on the trays	4.8
+A person is singing and playing the guitar	One man is passionately playing the guitar	4.2
+A ping pong player is meeting with two people	A few animals are playing in the water	1
+One chimp is angrily kicking the target	A chimp is angrily kicking a target	4.8
+A chimp is angrily kicking a target	An angry man is targeting a kicking chimp	3.4
+The woman isn't pouring oil into a skillet	The woman is pouring oil into a skillet	3.6
+A chimp is angrily kicking a target	The skillet is being oiled by a woman who is pouring some water	1
+A person is taking away the meat in the skillet	The baby is being put into a trash can by a woman	1
+The baby is being put into a trash can by a woman	A person is putting meat into a skillet	1
+One small child is drinking water from the cup	One small child is filling the cup with water	3.8
+A woman is putting on some makeup carefully,	The band is singing 	1
+The man is intensely playing the guitar	The man isn't intensely playing the guitar	2.9
+A girl is playing the guitar	The man is intensely playing the guitar	3.7
+The horse is being ridden by a man	A man is riding the horse	5
+A man is riding the horse	A man is riding a motorbike	2.4
+A man is dangerously throwing knives at a tree	Some dangerous men with knives are throwing a bike against a tree	3.3
+The person isn't practicing the guitar	The person is practicing the guitar	4
+Some meat is being stitched together by a woman	Some meat is being cut into pieces by a woman	3.25
+A boy in his teens is talking to a girl with a webcam	The teens are talking to a boy and a girl with a webcam	3.9
+There is no white car being driven by the man	A white car is being driven by the man	3.5
+There is no rope being climbed by a man	A man is slicing the carrot with a machine	1.1
+The cat is licking milk from a saucer	The cat is hungrily drinking milk	4.3
+A small boy is playing with a dog	The small boy is playing with the dog	5
+A baby is cheerfully playing with a dog	A small boy is playing with a dog	4.5
+The man is setting up the camera and taking sunset pictures at the beach	The man is setting up the camera and takes pictures of the sunset at the beach	5
+The woman is cracking two eggs into a glass bowl	A woman is placing a bowl with a crack near an egg	3
+Two kids are playing in a swimming pool with a green colored crocodile float	Two kids are playing in a swimming pool with a crocodile float that is green	4.8
+Two crocodiles are floating in a green colored swimming pool near some playing kids	Two kids are pushing an inflatable crocodile in a pool	3.9
+A horse is falling on someone	The man is being knocked off of a horse	2.6
+A woman is tapping her fingers on a table	A woman is tapping her fingers nervously	4.4
+A dog is pushing a toddler into a puddle of rain	The dog is knocking a boy into the water	3.9
+The person is playing the flute	A man is playing the guitar	2.6
+A man is packing away the guitar	The man is playing the flute	2.8
+There is no woman adding spices to some meat	A woman is adding spices to some meat	4
+The woman is not adding sugar to the meat	A woman is adding spices to some meat	3.6
+A dog is biting a can	A can is being bitten by a dog	5
+A can is being bitten by a dog	A dog is opening a can of food	3.1
+A dog is opening a can of food	A dog is biting a can	3.3
+A cat is playing with a watermelon	The cat is playing with a watermelon	5
+A teenager is playing the guitar	A boy is playing a guitar	4.1
+One woman is wakeboarding on the lake	The woman is waterskiing	3.5
+A person is slicing an onion	A person is cutting an onion	4.8
+One person is cutting an onion	A person is cutting an onion	4.9
+A person is burning some cameras with a blow torch	A person is repairing some cameras with a blow torch	3.6
+There is no person setting fire to the cameras	A person is burning some cameras with a blow torch	3.9
+A carrot is being sliced into pieces by a person	A person is cutting an onion into pieces	3.2
+The person is carefully slicing a potato	The man is slicing the potato	4.3
+Somebody is cutting a tomato	Someone is cutting a tomato	5
+The lady is slicing a tomato	The woman is slicing a tomato	4.7
+A man is preparing some dish	An onion is being sliced with a knife by the woman	1.3
+A man is preparing some dish	The woman is not slicing an onion with a knife	1.6
+Runners are racing in a competition	Runners are competing in a race	4.5
+Some runners are competing in a race	The runners are racing around a track	3.835
+A man is running down the road	One man is running down the road	4.7
+A man is running down the road	A man is running	4.5
+The man is playing the piano with his nose	The keyboard is being played with his nose by a man	4.2
+A baby rhino is walking around a pen with its mother	A mother is giving the baby a pen with a walking rhino on it	2.1
+A baby rhino is following an adult rhino	A rhino, which is a youngling, is walking around a pen with its mother	4.8
+There is no man riding a motorcycle through the town	A man is riding a motorcycle through the town	3.8
+Some persons are singing	A group of people is singing	4.8
+Some people are singing	A few people are singing	4.7
+A guitar is being played by the man	A man is playing a trumpet	3
+One man is dancing	A man is dancing	4.6
+A man is dancing	A man is motionless	3.3
+A man is dancing	A man is talking	2.7
+One panda is climbing	A man is climbing a rope	1.6
+A man is being roped before a climb	A panda is climbing	1
+A woman is dancing in a cage	There is no woman dancing in a cage	3.7
+A cat is eating corn on the cob	A cat is eating some corn	4.4
+The person isn't slicing a vegetable	The person is slicing a vegetable	4.085
+A man is playing the guitar	A man is playing a guitar	4.9
+Someone is putting the guitar away	Someone is playing the guitar	3.4
+A person is slicing some mushrooms	A person is cutting some mushrooms	4.7
+A tiger is walking outside a cage	A tiger is walking around aimlessly	3.7
+The monkey is brushing a bull dog	The monkey is not brushing a bull dog	4
+A woman is swiftly cutting an onion	A woman is cutting an onion	4.6
+There is no woman cutting an onion	A woman is cutting an onion	3.5
+There is no man with a hard hat dancing	A man with a hard hat is dancing	3.9
+The man is slicing vegetables	A woman is cutting a potato	3
+The man is slicing vegetables	There is no woman slicing a potato	2.5
+The lady is slicing up the meat	The lady isn't slicing up the meat	4.1
+The lady isn't slicing up the meat	The lady is cracking an egg for the mixer	1.9
+Several ferrets are climbing into the cage	Several ferrets are climbing out of the cage	3.8
+A man is getting off the car	A man is getting into a car	4.1
+A man is parking a car in a garage	A man is getting into a car	3.4
+A man is getting a garage for the car	A man is getting into a car	2.7
+A man is getting into a car in a garage	A man is getting into an automobile	4.2
+A person is cutting a capsicum into pieces	Nobody is cutting a capsicum into pieces	3.7
+A karate practitioner is kicking at another man who is wearing protective boxing gloves	A karate practitioner is kicking at another man who is wearing protective gloves for boxing	4.8
+The man is clumsily kick boxing with a trainer	The man is kick boxing with a trainer	4.5
+A man is playing an acoustic guitar	The woman is playing a guitar which is electric	3.4
+The woman is not playing an electric guitar	A man is playing an acoustic guitar	3
+The lady is breaking eggs that are raw into a bowl	The woman is cracking eggs into a bowl	4.4
+A soccer player is scoring a goal	A player of soccer is scoring a goal	4.7
+A man and a woman are eating happily	A man and a woman are eating	4
+A man and a woman are eating	A man and woman are talking	3.4
+A person is cleaning a pot of cooking oil	A person is pouring olive oil into a pot on the stove	3.1
+A woman is walking the dog down the street	A woman is restraining the dog	3.8
+A plane is landing	An animated airplane is taking off	2.7
+A woman is pouring a mixture into a bowl and mixing it	A woman is preparing a skillet for the eggs	2.4
+The girl is using an eye pencil on her eyelid	The girl is not using an eye pencil on her eyelid	3.7
+The woman is penciling on eyeshadow	The woman is not penciling on eyeshadow	4.1
+The woman is not penciling on eyeshadow	The girl is using an eye pencil on her eyelid	3.8
+There is no girl playing the piano	A little girl is playing a grand piano on stage	4.3
+Two cats are playfully fighting each other	Two cats are fighting each other	4.4
+Two bikes are being ridden by two people	Two people are riding a bike	4.6
+A woman is playing a flute	The woman is not playing the flute	3.2
+A man is lifting barbells	The man is lifting weights	4.6
+A man is chopping down a tree with an axe	A person is planting a tree	2.8
+A girl is applying makeup to her face	There is no girl applying makeup to her face	4.3
+The woman is cutting a carrot	There is no woman slicing an onion	2.9
+There is no woman penciling on eyeshadow	A woman is putting cosmetics on her eyelid	3.2
+A man is eating a banana	A banana is being eaten by a man	4.8
+The man is absently eating a banana by a tree	The man is eating a banana by a tree	4.5
+The man is eating a banana by a tree	A man is eating a banana	4.5
+A large green ball is missing a potato	A large green ball is hitting a potato	3.5
+Different teams are playing football on a field	Different football players are teaming on a field	3.9
+A woman is playing an electric guitar	A guitar is being played by a man	2.9
+A man is athletically jumping a wall	A man is jumping onto a low wall	4
+A man is pouring oil into a pan	Oil is being poured into a skillet by a man	5
+A woman is driving a car and is talking to the man who is seated beside her	There is no woman driving a car and talking to the man seated beside her	4.7
+A woman is driving a car and is talking to the man who is seated beside her	The woman and the man are not travelling by car	3.6
+There is no man sitting on the floor and playing a guitar	A man is sitting on the floor in a room and strumming a guitar	4.3
+A baby is sneezing and scaring another baby	A baby is sneezing and frightening another baby	4.9
+A monkey is kicking at the gloved hand of a person	A monkey is kicking at a person's glove	4.365
+A man is performing tricks with a soccer ball	A man is kicking a soccer ball	4.2
+A box is being cut by a man	The man is cutting the tape on the box	3.4
+A man is cutting a box	The man is cutting the tape on the box	3.7
+A kid is playing an instrument	A kid is throwing away an instrument	3.1
+A man is trekking in the woods	A man is sitting in the woods	3.1
+There is no lady mixing a meat mixture in a bowl	A lady is mixing a meat mixture in a bowl	4
+The woman is stirring meat in a bowl	The woman is not stirring meat in a bowl	3.9
+A lemon is being squeezed by a woman	A woman is squeezing a lemon	4.9
+A woman is squeezing juice out of a lemon	There is no woman squeezing juice out of a lemon	3.6
+A boy is fearfully walking across a bridge	A boy is walking across a bridge	4.7
+The squirrel is running in circles	A squirrel is running in circles	4.6
+The man is playing the guitar	A man is playing the guitar	5
+The soccer player is kicking the ball between somebody's legs	A person is kicking a ball for a soccer game between somebody's feet	4.2
+A child is running in and out of the ocean waves	A child is staring at the ocean waves	3.7
+A woman is putting away carrots	A woman is grating carrots	3.465
+The man and woman are not walking	A man and a woman are walking through the woods	3
+The woman is frying a chop of breaded pork	The woman is frying a breaded pork chop	4.7
+The woman is frying a breaded pork chop	The woman is not frying a breaded pork chop	3.7
+A woman is cleaning a shrimp	The woman is cleaning a shrimp	4.9
+A woman is cleaning a shrimp	There is no woman cleaning a shrimp	3.5
+The woman is cleaning a shrimp	Someone is cleaning an animal	3.9
+The boy is not riding a tricycle	A woman is riding a water scooter	1.4
+Someone is beating an egg	Somebody is beating an egg	4.8
+Nobody is beating an egg	The woman is stirring eggs in a bowl	4.1
+A person is folding a tortilla	A tortilla is being folded by a person	5
+A man is folding a tortilla	A person is folding a tortilla	4.7
+A woman is deboning a fish	A big fish is catching a man	1.9
+There is no man playing a harp	A man is playing a violin	3.2
+A woman is being handed volleyballs by another woman	One woman is handing volleyballs to another woman	5
+One woman is handing volleyballs to another woman	One woman is denying the volleyballs to another woman	3.2
+One woman is handing volleyballs to another woman	A woman is throwing volleyballs over a net	4
+A guitar is being passionately played by a man	A man is playing a guitar	4.5
+A white cat perched on a small wooden cabinet is looking outside the window	There is no white cat perched on a small wooden cabinet looking outside the window	3.3
+A white cat perched on a small wooden cabinet is looking outside the window	Someone on a perch is looking at a small wooden cat that is on a white cabinet outside the window 	3.2
+There is no white cat perched on a small wooden cabinet looking outside the window	The cat perched on the table is looking out the window	3.9
+A woman is chopping up garlic	The woman is dicing garlic	4.8
+The man is not dancing	A woman is dancing	3.3
+There is no person writing	A person is writing	3.615
+A person is jotting something with a pencil	A person is writing	4.6
+The person is writing with a pencil	The person is writing	4.8
+A squirrel is lying down	A squirrel is running around in circles	2.9
+A squirrel is spinning around in circles	A squirrel is lying down	2.6
+The man is not doing floor exercises	A man is doing exercises	3.8
+A monkey is riding a bike	There is no monkey riding a bike	3
+A man is riding a bicycle	A monkey is riding a bicycle	3.1
+A monkey is riding a bike	A man is stopping the bicycle	2.2
+The meat is being dropped into a pan	There is no woman putting meat in a pan	3.8
+A man is holding a frog	A person is holding a frog	4.7
+A man is strolling in the rain	A man is walking in the rain	5
+A man and a woman are walking	It is raining on a walking man	2.5
+Some men are running a race	Racers are running down a track	3.8
+A woman is taking off eyeshadow	A woman is putting on eyeshadow	3.6
+A woman is putting on eyeshadow	The woman is removing make-up	3
+A toy train is striking a toy car	A toy train is missing a toy car	3.8
+Several swimmers are dashing into the water	Swimmers are racing in a lake	3.5
+A talented man is playing the guitar	A man is playing a guitar	4.5
+A boy is shredding a calendar	A boy is studying a calendar	3.3
+The woman is picking up and holding a baby kangaroo	A woman is dropping a baby kangaroo from her arms	3.6
+A harp is being played with a hat by a man	A man in a hat is playing a harp	3.8
+A woman is slicing a pepper which is green	A woman is slicing a green pepper	4.8
+A woman is peppering green slices	A woman is slicing a green pepper	3
+The woman with the knife is not slicing a pepper	A woman is slicing a green pepper	3.3
+The man is riding a horse by a stream	A man is riding a horse	4.4
+The man is riding a horse by a creek	A man is riding a horse	4.3
+A cat is playing a piano funnily	A cat is playing a piano	4.5
+A man is rising from a swamp	A man is coming out of the water	4.3
+A man is dangerously dancing on the ceiling of a room	A man is dancing on the ceiling of a room	4.5
+There is no man dancing	A man is singing	2.9
+A man is exercising	A girl is exercising	3.4
+The women are dancing outside	A few people are dancing	4.3
+Two men are doing a funny skit with a boxer in front of a crowd of people	A funny crowd of people is doing a skit of two boxing men	2.9
+Boys are dancing in front of some people	A funny crowd of people is doing a skit of two boxing men	1.4
+The men are fighting with their fists in a ring	Two men are fist fighting in a ring	4.8
+A child is waking up	A girl is falling asleep	3.3
+A woman is peeling a potato	A woman is refrigerating a potato	3.7
+A woman is slicing a tomato	A woman is refrigerating a potato	2.5
+The woman is picking up a kangaroo that is little	The woman is picking up a baby kangaroo	4.5
+A man is breaking a wooden hand against a board	A man is breaking wooden boards with his hand	3.1
+A man is dancing	A person is dancing	4.5
+A man is dancing on the road	A man is dancing	4.2
+A dog is running breathlessly on the road	A dog is running on the road	4.5
+There is no man running on the road	A man is running on the road	3.6
+The man is running on the road	A dog is running on the road	3.2
+The man is throwing knives at a tree	A man is inside the house and is throwing blades at a close target	3.7
+Someone is drawing a person	The person is drawing	4
+A man is eating a pizza	There is no man eating a pizza	3.2
+There is no man doing back flips on a trampoline	A man is doing back flips on a trampoline	3.5
+Several boys are jumping on a trampoline	Several kids are jumping on a trampoline	4.6
+The man is erasing the other man's work from the board	The girl is erasing the other man's work from the board	3.2
+The man is erasing the drawing on the board	The girl is erasing the other man's work from the board	3.6
+An eggplant is being sliced by a woman	A woman is slicing an eggplant	4.8
+A dog is playing with a toy	There is no dog playing with a toy	4.5
+A dog is playing with a toy	A dog is biting a doll	3.9
+A man is dancing	A man is praying	2.4
+There is no man playing an electronic keyboard	A man is playing an electronic keyboard	3.2
+A man is playing a flute	There is no man playing an electronic keyboard	2.3
+An old woman is shaking hands with a man	An woman that is old is shaking hands with a man	4.9
+A woman is cutting a tomato	A man is cutting a tomato	3.6
+A woman is slicing a tomato	A man is cutting a potato	3
+A man is slicing a potato	A woman is cutting a tomato	2.4
+A woman is picking a can	A woman is taking a can	4
+Someone is peeling a banana	There is no one peeling a banana	3.3
+A man is eating a banana	Someone is removing the peel of a banana	4
+A man is cutting a paper	A man is cutting himself with a piece of paper	2.8
+A person is tearing paper	There is no man cutting a paper	2.8
+A person is tearing paper	A man is cutting a paper	3.9
+A guy is riding a horse	A horse is being ridden by a guy	5
+A man is riding a horse on the beach	A guy is riding a horse	4.7
+The man is not cutting a paper plate	The man is cutting a paper plate	3.3
+A man is cutting a paper plate	A paper plate is being cut by the man	5
+The men are not talking	Some women are talking	3.4
+A man is playing an instrument	A woman is putting on lipstick	1.1
+The rhino is grazing on the grass	A animal is grazing in a field	4.1
+A man is kicking a soccer ball	A man is kicking a ball	4.8
+The boy is playing the piano	The boy is not playing the piano	3
+The woman is pouring oil into the pan	The boy is playing a musical instrument	1
+A girl is styling her hair	A boy is styling his hair	3.4
+There is no man screwing a piece of wood to a wall	A man is screwing a piece of wood to a wall	3.5
+A man is playing a flute	There is no man playing a guitar	3.5
+There is no man driving a car	A man is driving a car	3.8
+A man is driving a car	There is no man riding a horse	1.7
+A man is emptying a container made of plastic	A man is emptying a plastic container	4.9
+Two women are dancing	Two women are not dancing	3.3
+Two women are dancing	A couple of policewomen are singing karaoke	1.9
+A woman is riding a horse	An animal is being ridden by a woman	4.5
+Some onions are being cut by a person	A hamster is singing	1
+A person is slicing some onions	A hamster is singing	1
+A man is playing a guitar	A guitar is being played by a man	4.8
+A man is singing and playing a guitar	A man is playing a guitar	4.4
+A man is drilling a hole in a piece of wood	A man is drilling a hole with a piece of wood	3.8
+Nobody is drilling a hole in a strip of wood with a power drill	Someone is drilling a hole in a strip of wood with a power drill	3.8
+A woman is slicing an onion	A woman is slicing garlic	3.2
+A man is showing off a small monkey	A man is exhibiting a small monkey	4.6
+A man is hiding a small monkey	A man is showing off a small monkey	3.465
+A group of women is playing with a ball on the beach	A group of men is playing soccer on the beach	3.1
+A group of men is playing soccer on the beach	A group of boys is not playing soccer on the beach	3.2
+A group of men is playing soccer on the beach	A group of boys is playing soccer on the beach	4.4
+A man on a motorcycle is not riding on one wheel	A man on a motorcycle is riding on one wheel	4.5
+A man on a motorcycle is riding on one wheel	The performer is tricking a person on a motorcycle	2.8
+A man on a motorcycle is doing a trick	A person is performing tricks on a motorcycle	4.5
+A person is dancing in the rain	A man is singing into a microphone	1
+A man is cooking a snake	A man is roasting a snake	4.7
+The man is removing sliced cucumbers from water	The man is dropping sliced cucumbers into water	3.6
+A man is cooking a snake	The man is dropping sliced cucumbers into cold water	1.4
+A boy is playing guitar	A guitar is being played by a boy	5
+A boy is playing a guitar	A boy is playing an instrument	4.6
+A guitar is being played by a kid	A kid is playing guitar	5
+There is no kid playing guitar	A boy is playing a guitar	4
+A dog is being teased by a monkey at the zoo	A monkey is pulling a dog's tail	4.3
+A person is slicing an onion	An onion is being sliced by a person	5
+A girl is styling her hair	A girl is combing her hair	4.4
+There is no man opening a box with a knife	A man is playing a guitar	1.2
+A person is not stirring vegetables in a pot	A man is mixing vegetables in a pot	3.7
+A man is sharpening a knife	There is no man carrying a woman	1.3
+A baby is crawling happily	A cat is walking on a hardwood floor	1.1
+A guitar is being played by a man	A man is playing a guitar	4.8
+A man is singing and playing a guitar	There is no man singing and playing a guitar	3.2
+A man is playing a guitar	There is no man singing and playing a guitar	4
+There is no man playing a guitar	A man is singing and playing a guitar	4.1
+Someone is putting ingredients into a wok	Someone is putting ingredients into a pan	4.5
+A child is walking down the street and a jeep is pulling up	A child is walking down the street and a jeep is stopping	4.4
+A man in a car is pulling up beside a woman that is who along a road	A man in a car is not pulling up beside a woman who is walking along a road	3.2
+A child is walking down the street and a jeep is pulling up	A man in a car is pulling up beside a woman who is walking along the street	2.6
+An onion is being sliced	An onion is not being sliced	3.415
+There is no woman frying something	A woman is frying something	3.6
+A woman is frying something	A horse is being ridden by a woman	1.4
+A man is reading an email	A person is peeling a banana	1
+A big cat is opening a plastic drawer with its paws and is jumping inside	A small cat is opening a plastic drawer with its paws and jumping inside	3.9
+A dog is opening a drawer and climbing inside	A cat is opening a drawer and climbing inside	4.1
+A big cat is opening a plastic drawer with its paws and is jumping inside	A cat is opening a drawer and climbing inside	4.4
+The man is talking on the telephone	The man is speaking on the telephone	4.9
+The man is talking about the telephone	The man is talking on the telephone	3.6
+The man is talking on the telephone	The man is talking on the phone	4.8
+A woman is cutting an onion	A man is slicing onions	3.7
+There is no man loading a rifle with bullets	A woman is seasoning a piece of meat	1
+A man is loading a rifle with bullets	A woman is seasoning a piece of meat	1.1
+A chef is preparing some food	A chef is discarding some food	3.8
+A chef is preparing a meal	A chef is cooking a meal	4.5
+A person is playing a piano	A piano is being played by a person	4.9
+A person is playing a piano	There is no person slicing a potato	1.1
+There is no person playing a piano	A person is slicing a potato	1.2
+A man is sprinkling shredded cheese on a pizza	A man is sprinkling cheese on a pizza	4.7
+A man is sprinkling shredded cheese on a pizza	There is no man sprinkling shredded cheese on a pizza	4
+A man is sprinkling cheese on a pizza	A man is putting some cheese on a pizza	4.7
+There is no woman putting a child in a waste bin	A woman is putting a baby in a waste bin	4.1
+The man is not playing the drums	The man is playing the drums	3.8
+The man is playing the drums	A man is cleaning the sink	1.3
+A woman is deep frying food	Food is being deep fried by a woman	4.8
+A woman is deep frying food	Some food is being fried by a woman	4.5
+A woman is pouring eggs into a pan	A man is petting two dogs	1
+A boy is saying a word	A boy is saying something	4.6
+A boy is saying a word	There is no baby talking	2.2
+A woman is putting some sticky goo in a bowl	The woman is putting pasta into a dish	2.8
+The men are not playing soccer	A man is riding a motorcycle	1.5
+A woman is frying meat	A woman is not frying meat	3.5
+A woman is not frying meat	A woman is placing food in a pot of hot water	3.4
+A woman is playing the trumpet	A man is playing the trumpet	3.1
+A man is playing the trumpet	Someone is playing with a toad	1.7
+A man is jumping rope in a field	A man is jumping rope outside	4.5
+The man is not slicing a potato	The man is slicing a potato	3.9
+A flute is being played by a girl	A girl is playing a wind instrument	4.4
+There is no girl playing a flute	A girl is playing a wind instrument	3.7
+Someone is playing piano	Someone is not playing piano	3
+A woman is diving into a pool	A man is diving into a pool	3.5
+The man is seasoning the sausages	The man is seasoning the meat	4.4
+A man is playing a large flute	A man is playing a flute	4.2
+The lady is peeling the potato	A woman is peeling a potato	5
+A man is not riding a scooter	A man is playing a flute	1.5
+A man is playing a flute	A man is riding a scooter	1.5
+A woman is not slicing an octopus	A man is playing the guitar	1
+A man is putting some food in a box	A man is putting some food in a container	4.4
+The man is not putting chicken into the container	A man is putting some food in a box	3.7
+The little kid is singing and playing the guitar	A baby is playing a guitar	3.8
+Someone is not reading the email	A man is reading the email	2.8
+A woman is frying fish	There is no woman cooking fish	3.7
+A guy is mowing the lawn	There is no man mowing grass	3.8
+The lady is cracking an egg into a bowl	The lady is cracking an egg into a dish	4.5
+The man is cracking eggs into a bowl	The lady is cracking an egg into a bowl	3.2
+A man is drawing on a board	A man is drawing some figures	3.5
+A woman is cutting tofu	A woman is chopping onions	2.9
+The man is feeding the snake with a mouse	The man is feeding the snake with an animal	4.635
+The man is feeding the snake with a mouse	The man is not feeding the snake with a mouse	3.3
+A girl is playing on a toy phone	A boy is playing on a toy phone	3.5
+The boy is trotting on the horse	The girl is trotting on the horse	2.8
+The girl is trotting on the horse	A girl is riding a horse	4.4
+The man is using a sledgehammer to break a concrete block that is on another person	A man is breaking a slab of concrete with a sledge hammer	4.4
+A girl is eating a cupcake	A boy is eating a cupcake	3.9
+A man is riding a mechanical bull	A man is playing an instrument	1
+A man is not playing keyboards	A man is riding a mechanical bull	1.1
+A chef is cleaning a bowl of soup	A bowl of soup is being cleaned by a chef	4.8
+A bowl of soup is being cleaned by a chef	A man is wiping the edge of a bowl	3.5
+A person is not making a bed	A person is eating at a table	1.7
+The cat is licking a bottle	The dog is licking a bottle	3.9
+The cat is licking a bottle	An animal is playing with a small bottle	3.6
+A small dog is lying on the bed	A small dog is lying under the bed	3.5
+A small dog is lying on the bed	A small cat is lying on a bed	2.9
+The man is not playing the guitar	The man is playing with a skull	1.4
+The man is sprinkling cheese on the pizza	There is no man sprinkling cheese on the pizza	3.1
+There is no man sprinkling cheese on the pizza	A man is putting some cheese on a pizza	3.8
+Some cheese is being put on a pizza by a man	The man is sprinkling cheese on the pizza	4.7
+A man is shooting a shotgun	A man is shooting a weapon	4.6
+A man is dancing on the ceiling	There is no famous singer dancing on the ceiling	3.1
+A man is cracking eggs	A man is talking to a woman	1.8
+A fish is being cut by a man	A man is cutting a fish	4.9
+A woman is dancing near a fire	A woman is dancing near a fireplace	4.2
+A girl is playing a guitar	A man is not playing a guitar	3.1
+A man is playing a guitar	A boy is playing a guitar	3.3
+The man is playing the guitar	There is no man playing the guitar	3.1
+Two women are dancing and singing in front of a crowd	Two women are dancing and singing in front of many people	4.7
+A lemur is biting a person's finger	An animal is biting a person's finger	4.2
+A lemur is biting a person's finger	An animal is biting somebody's hand	4.4
+A girl is skateboarding on a half pipe	A skateboarder is doing tricks on a half pipe	4
+A dog is sitting on the ground	A girl is tapping her fingernails	1
+A man and a woman are driving down the road in a car	A man and a woman are driving down the road in an open-air vehicle	4.3
+A man and a woman are driving down the street in a jeep	A man and a woman are not driving down the street in a jeep	4.4
+A woman is pouring ingredients into a bowl	The chef is seasoning the oil	3.1
+Potatoes are being sliced by a woman	A woman is slicing potatoes	4.9
+The man is not doing exercises	Two men are fighting	2.3
+Nobody is pouring ingredients into a pot	Someone is pouring ingredients into a pot	3.5
+Nobody is pouring ingredients into a pot	A man is putting vegetables into a pot	3.6
+A dog is leaving a ball in the dirt	A dog is chasing a ball through dirt	3.7
+A dog is catching a ball	A dog is furiously chasing a ball through dirt	4.1
+A dog is chasing a ball through dirt	There is no dog catching a ball	3.415
+A dog is chasing a ball through dirt	A dog is catching a ball	3.4
+A child, who has blond hair, is holding a yellow bottle	A boy in a blue shirt has dirt on his face	1.5
+A large white crane is flying near the water	A crane, which is large and white, is flying near the water	4.9
+The white bird is landing swiftly in the water	A large white crane is flying near the water	3.5
+A dog with golden fur is out of the water	A brown dog is standing in the water	3.4
+A young girl in a blue shirt is walking on the sidewalk and holding up a pink sign	There is no young girl in a blue shirt walking on the sidewalk and holding up a pink sign	4.3
+A young girl by a pink sign is holding up a blue shirt and is walking on the sidewalk	The girl is carrying a sign and a group of people is following her	3.5
+A dog is walking away from the tail of an animal in the grass	A dog is chasing the tail of an animal in the grass	3.1
+The little dog is grabbing the bedroom slipper with its mouth funnily	The little dog is grabbing the bedroom slipper with its mouth	4.8
+The man is standing steadily next to a birdcage	The man is standing next to a bird cage	4.5
+The man is standing steadily next to a birdcage	A man is standing beside a large and colorful birdcage	4.4
+There is no dog in a colored coat running across the yard	A dog in a colored coat is running across the yard	3.7
+A brown and white dog is putting the baseball in its mouth down	A brown and white dog is holding a baseball in its mouth	4.2
+A boy, who looks young and is wearing a red swimsuit, is jumping into a blue kiddies pool	A young boy wearing a red swimsuit is jumping into a blue kiddies pool	4.8
+A boy, who looks young and is wearing a red swimsuit, is jumping into a blue kiddies pool	A boy wearing red shorts is jumping into a paddling pool	4
+A group of dogs are racing furiously and have muzzles on the noses	A group of dogs are racing and have muzzles on their noses	4.7
+Nobody is standing in the ocean and watching the sunset	Two people are wading through the water	3.1
+A race car driver is standing up and is fiercely pointing his hand at the sky	A race car driver is standing up and pointing his hand at the sky	4.6
+The group of people is sitting on a ledge which is rocky and a scenic view is behind them	Four people are sitting on a low cement ledge	3.3
+The group of people is not sitting on a rocky ledge with a scenic view behind them	Four people are sitting on a low cement ledge	2.7
+Two girls are laughing and other girls are watching them	There is no girl laughing and there is no other girl watching	3.2
+Something is being celebrated by a cold cyclist	A bicyclist is holding a bike over his head in a group of people	3.2
+A man is on a ship in front of the sunset	A man is on a boat in front of the sunset	4.6
+There is no man on a boat in front of the sunset	A man is on a boat in front of the sunset	3.2
+A man is sitting peacefully on a boat in front of the sunset near a flag	A man is on a boat in front of the sunset	4.5
+People at a drag race are looking at the flames that are coming out of the cars	People at a drag race are running away from the flames that are coming out of the cars	3.5
+The crowd is not watching two racing cars that are leaving the starting line	The crowd is watching two racing cars that are leaving the starting line	3.5
+The crowd is watching two racing cars that are leaving the starting line	Some people at a drag race are looking at the flames that are coming out of the cars	3.2
+Two dogs are cheerfully playing together on the grass	Two dogs are playing together on the grass	4.5
+Two dogs are cheerfully playing together on the grass	A big dog and a small white dog are playing together	4.1
+A brown dog is sitting down	A malnourished looking dog is standing on its hind legs and preparing to jump	2.5
+The cop is not sitting on a police bike	The cop is sitting on a police bike	3.5
+A policeman is sitting on a motorcycle	A policeman is getting off of a motorcycle	2.7
+A policeman is sitting tiredly on a motorcycle	The cop is sitting on a police bike	4.1
+A policeman is getting off of a motorcycle	The cop is sitting on a police bike	3.3
+A policeman is sitting on a motorcycle	The cop is not sitting on a police bike	3.4
+A dog with a golden coat is swimming clumsily through the water	A dog is swimming in a lake and the sun is shining on him	3.3
+The dog is swimming in a lake and the sun is shining on him	A dog with a golden coat is swimming through the water	3.9
+There is no large group of cheerleaders walking in a parade	The cheerleaders are parading and wearing black, pink and white uniforms	3.7
+A shoeless woman is sitting on a blanket under a lavender umbrella	A woman, who is shoeless, is sitting on a blanket under a lavender umbrella	4.8
+A shoeless woman is sitting on a blanket under a lavender umbrella	The man is sitting outside under a purple umbrella	3
+There is no woman standing near three children	A woman is playing with two young boys at a park	2.7
+A tan dog is resting in the snow	A tan dog is running through the snow	3.7
+A tan dog is running through the snow	A yellow dog is running on white snow on a sunny day	3.7
+A girl is wearing jeans and a pink shirt and is running	A girl is running with a pink shirt and is not wearing jeans	3.9
+A girl is wearing jeans and a pink shirt and is running	The little girl in a pink shirt is running under a tree in the desert	3.8
+The white dog wearing reindeer ears is close to a brown dog	The white dog wearing reindeer ears is near a brown dog	4.9
+A white dog is wearing a Christmas reindeer headband and is playing with a brown dog in the grass	The white reindeer wearing dog ears is near a brown reindeer	2.2
+A child, who is young, is riding a bike on a rough dirt path	A young child is riding a bike on a rough dirt path	4.9
+A young child is walking with a bike on a rough dirt path	A young boy is riding a dirt bike through the mud	3.4
+A woman in a red dress is putting away an instrument	The woman in a red costume is leaning against a brick wall and playing an instrument	3.1
+A young child is wearing a white coat and playing a game	A child, who is young, is wearing a white coat and playing a game	4.9
+The man is wearing a wetsuit and is riding a surfboard	The man is lying naked near a surfboard	2.9
+A waterfall is flowing into a shallow pool	The people are not walking on the road beside a beautiful waterfall	2
+The people are walking on the road beside a beautiful waterfall	A waterfall is flowing calmly into a shallow pool	2.7
+The dark skinned male is standing on one hand in front of a yellow building	The dark skinned male is not standing on one hand in front of a yellow building	4
+A black man is walking on the pavement	The dark skinned male is standing on one hand in front of a yellow building	2.8
+A person who rides bikes, in a black and red uniform, is standing on a dirt bike	A bike rider in a black and red uniform is standing on a dirt bike	4.8
+A bike rider in a black and red uniform is jumping down off a dirt bike	A person is riding a bike	3.8
+A person is riding a bike	A black bike rider in a red bike uniform is standing in the dirt	2.7
+The man is playing the guitar and has the guitar case open for donations	The man is putting away the guitar in the guitar case	2.9
+A man in a purple colored suit is standing by a purple case and is playing a guitar	The man is playing the guitar and has the guitar case open for donations	3.7
+A couple is sitting on a patio and looking at the ocean	Some adults are sitting in the chairs and are watching the ocean	4
+A little boy is wearing a yellow tank top and is laughing	There is no small boy in a yellow shirt laughing on the beach	3.6
+A little boy is wearing a yellow tank top and is laughing	A small boy in a yellow shirt is laughing on the beach	4.1
+Two men are riding an orange raft on the shore	Two men are getting off of an orange raft on the shore	4.2
+A person is standing in a vast field of glacial ice	One person is standing in a vast field of glacial ice	4.8
+A person is standing in a vast field of glacial ice	There is no person standing in a vast field of glacial ice	3.1
+The person is not standing on white ice	The person is standing on white ice	3.6
+The person is standing on white ice	There is no person standing in a vast field of glacial ice	3.6
+A blond boy is walking up a sand dune with a skateboard	A blond boy is sliding down a sand dune on a skateboard	3.5
+A blond boy is sliding down a sand dune on a skateboard	There is no woman snowboarding down an incline and there is no other woman standing behind her	2
+A man is holding up an electronic device	A person is holding up an electronic device	4.5
+The brown dog and the black dog are in the grass	A brown dog and a black dog are in the grass	4.9
+A brown dog and a black dog are far from the grass	A brown dog and a black dog are in the grass	4.2
+The brown dog and the black dog are in the grass	A little black dog is chasing a little brown dog	3.2
+A girl in a brown dress is being surrounded by children and is closing her eyes	The sun is not shining on the face of the girl who is in a yellow dress	1.9
+The sun is shining on the face of the girl who is in a yellow dress	A girl is surrounding brown dressed children who are closing the eyes	1.9
+The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal	The ice hockey goalkeeper is not wearing a yellow jersey and is not defending the goal	3.3
+The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal	A hockey player in a yellow jersey is guarding the goal	4.535
+The ice hockey goalkeeper is not wearing a yellow jersey and is not defending the goal	A hockey player in a yellow jersey is guarding the goal	4.1
+The small boy is standing in the forest	A small boy is standing in the forest	5
+Two young men are playing outside near a golden statue	Two people are looking at a statue made of gold	3.6
+The bicyclist is speeding on a city street	The bicyclist is riding on a city street	3.9
+A young girl is standing on one leg	A young girl is standing still	4
+Four people are walking across thick snow and the sun is setting	Four people are standing in thick snow and the sun is rising	3.5
+There is no white dog with beige spots running through a field	A white dog with beige spots is running through a field	3.6
+A horse and its rider are leaping over a barrier	The horse is leaping over the rider at the barrier	3.5
+A horse is leaping a hurdle and has a rider on its back	A horse and its rider are leaping quickly over a barrier	4.4
+A woman in a white dress and a woman in a blue dress are standing on a stage	A woman in white clothing and a woman in a blue dress are standing on a stage	4.9
+A woman in a white dress and a woman in a blue dress are standing on a stage	Two teenage girls are wearing fancy dresses at an event	2.3
+Two young women with folded arms are looking away from the screen	Two young women with folded arms are looking at the screen	3.7
+Two women with black hair are standing in front of a plywood wall	Two young women with folded arms are looking away from the screen	2
+A group of students in uniforms is listening attentively at the front of the class	A classroom full of students is looking in the same direction inside a bamboo structure	2.8
+The black bird is not sitting in a leafless tree	A black bird is sitting on a dead tree	3.8
+Two people in two chairs are reading	Some people are sitting in lawn chairs and are reading books	3.935
+A large brown dog and a small grey dog are standing on a rocky surface	There is no large brown dog and small grey dog standing on a rocky surface	3.9
+The brown dog is sniffing the back of a small black dog	There is no large brown dog and small grey dog standing on a rocky surface	3.3
+Three boys are rocking the walk along the river	Three boys are walking on rocks along a river	3.5
+Three boys are resting on rocks along a river	The men in brown shorts are walking on the rocks beside a river	2.8
+Three boys are rocking the walk along the river	The men in brown shorts are walking on the rocks beside a river	2.9
+A man elegantly dressed in black is wearing an elaborate black mask	A man dressed in black is wearing an elaborate black mask	4.7
+There is no man dressed in black wearing an elaborate black mask	A man dressed in black is wearing an elaborate black mask	3.4
+Two children are crouching under some metal bars	Two children are peering over a ledge, which is rusty	3.4
+The player in purple, white and black is playing near the end of the field	A player in purple, white and black is playing near the end of the field	5
+There is no man on a bicycle riding on the beach	A man on a bicycle is riding on the beach	3.1
+A large duck is flying over a rocky stream	A large duck is perching over a rocky stream	3.5
+A large duck is flying over a rocky stream	A seabird is flying over some rocks	3.8
+A father is pushing his daughter on a go-kart and another girl is watching	Two small children are playing with a toy car in the street	3
+A brown dog is running through the grass which is tall and green	A brown dog is running through tall green grass	5
+Two dogs are resting on the beach	Two white dogs are running and jumping along a beach	2.9
+The large brown dog is running outside in the dirt	A dog is running alongside a fence on a dirt track	3.9
+A young girl in a coat made for winter is jumping off a boulder into the sand at a beach	A young girl in a winter coat is jumping off a boulder into the sand at a beach	4.8
+A girl is jumping off a rock and another is standing on it	A girl is jumping on a rock and another is sitting on it	3.8
+A young man with brown hair and shades is sitting in front of some cans of soda	The man with brown hair is wearing sunglasses and is sitting at a table with cans of soda and other drinks	4.1
+A bearded man is standing by a shopping cart and is holding a cardboard sign	One bearded man is standing by a shopping cart and is holding a cardboard sign	4.9
+There is nobody jumping in the air on a board	Somebody is jumping in the air on a board	3.5
+Two men, a woman, and two young boys are standing aimlessly in front of a large gathering of people outside a building	Two men, a woman, and two young boys are standing in front of a large gathering of people outside a building	4.5
+A little girl with blond hair is smiling and sitting on a swing	A blond kid in green is sitting on a swing	3.7
+A white man is staging a hat and a playing guitar	A man in a white hat is playing guitar on stage	3
+A man in a white hat is getting off stage	Four people are performing music outdoors	1.5
+A man in a white hat is playing guitar on stage	Four people are silently standing outdoors	1.6
+Rugby players are tackling each other	An opponent is tackling a soccer player	2.9
+A white dog is standing on the leaves on the ground	One white dog is standing on the leaves on the ground	5
+A white dog is standing on the leaves on the ground	A white dog is standing on fallen leaves	4.7
+A child in light colored clothing is standing with his arms extended outward	A child in light colored clothing is lying with his arms crossed	3.7
+A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching	The motocross rider is wearing blue and black pants	3.4
+There is no young Asian woman with pink gloves standing in the snow	A young Asian woman with pink gloves is standing in the snow	3.4
+The female wearing pink gloves and a brown jacket is smiling in the snow	A young Asian woman with pink gloves is standing in the snow	4
+A young Asian woman with pink gloves is standing in the snow	A female wearing pink gloves and a brown jacket is not smiling in the snow	3.615
+A man is drinking orange juice and walking	A man is spilling orange juice and standing still	3.2
+The crowd is watching a football game	A football game is being watched by the crowd	5
+The crowd is watching a football game	A group of football players is running in the field	3.8
+A child in a red outfit is jumping on a trampoline	There is no child in a red outfit jumping on a trampoline	3.2
+A little boy in red clothes is jumping into the air	A child in a red outfit is dangerously jumping on a trampoline	4
+A brown dog and a black dog are frolicking in the sand	A black dog is playing with a brown dog on the sand	4.4
+A woman and three men are denying a photo	Three men and a woman are posing for a picture	4
+A wet boy is standing still on dirty and wet grass	A wet boy is jumping around on dirty and wet grass	2.9
+The black dog is walking through the tall grass	The black dog is not walking through the tall grass	3.6
+The black dog is walking through the tall grass	The black dog is not running through the grass	4.4
+A child is holding a camera in front of his face	There is no child holding a camera in front of his face	3.7
+Two small boys dressed in tuxedos are standing on a red carpeted floor	Two little boys are wearing tuxedos	4.4
+A man is standing tiredly next to a bus	A man is standing next to a bus	4.2
+The man is standing on the sidewalk	A man is standing on a sidewalk	5
+A person with a green shirt is jumping onto the grass	A person with a green shirt is jumping high over the grass	4.2
+A young boy is jumping in the air with his knees bent and arms spread	A boy, who is young, is jumping in the air with his knees bent and arms spread	4.9
+A bird is fiercely flapping its wings on the water	A bird is flapping its wings on the water	4.7
+There is no brown duck with a green head flapping its wings in the water	A bird is flapping its wings on the water	2.6
+The dog with the brown coat is playing outdoors	The brown dog is playing outdoors	4.8
+A man is wearing a blue checkered shirt and cheerfully riding a unicycle in the street	A man is wearing a blue checkered shirt and riding a unicycle in the street	4.6
+Three men are not staring at the big green hills in the distance	Three men are looking into the distance	3.6
+The men are climbing a mountain	One climber is holding a rock and another man is roping a wall	3.7
+Two children are playing on a statue	Small kids are climbing a statue in a park	4.2
+Two children are playing on a statue	A climber is parking with the children by a small statue	3.2
+A blonde lady is looking at a tower	The woman is looking at the view of a city	3.3
+A blonde lady is looking at a tower	A woman is looking at the view of a city	2.8
+A person is standing on a mountain top	Somebody is standing on a mountain top	4.9
+A dog with a ball is being chased in the grass	A dog is chasing a ball on the grass	3.6
+A tan dog is jumping up and catching a tennis ball	A red dog is sitting and dropping a tennis ball from its mouth	3.1
+A surfer is riding the wave	A rider is surfing the wave	4.6
+A surfer is riding the wave	A man is performing a trick on a surfboard in the water	3.6
+A man and two women in a dark room are sitting at a table with candles	A man and two women in a darkened room are sitting at a table with candles	4.9
+A man and two women in a darkened room are sitting at a table with candles	The group of dim people is sitting in a room	2.5
+The woman is not wearing a red jacket and is not holding a glass in front of the man in a white t-shirt	A person is wearing a red jacket and holding a beer	2.4
+There are no dogs fighting for a frisbee in a lake	Two dogs are fighting for a frisbee in a lake	4.4
+A girl in pink is twirling a ribbon	There is no girl in pink twirling a ribbon	4.3
+A football player in a purple jersey is running with the ball for a touchdown	A football player is running past an official carrying a football	3.5
+A young girl in blue is jumping in the air	There is no girl in blue jumping in the air	3.7
+A young girl in a blue leotard is jumping in the air	A young girl in blue is jumping in the air	4.2
+A person on a bike is jumping through the air and the sun is flaring beautifully through the bike frame	A person on a bike is jumping through the air and the sun is flaring through the bike frame	4.5
+A person on a bike is jumping through the air and the sun is flaring through the bike frame	The person is flying through the air on a bicycle	4.2
+The bunch of men are not playing rugby on a muddy field	Some men are playing rugby	3.5
+A person is looking at a bike designed for motocross that is lying on its side and another is racing by	The bike rider is looking at an accident of another bike rider	3.1
+The bike rider is looking at an accident of another bike rider	A person is ignoring the motocross bike that is lying on its side and there is no one is racing by	2.8
+The woman in the white sweater is not drawing a tattoo on the hand of a teenager	The woman in the white sweater is drawing a tattoo on the hand of a teenager	3.9
+A girl dressed in purple and blue is walking beside her bike at night	A woman in a purple top is walking a bicycle between two stone columns	3.2
+The dog with the black coat is walking along a tree trunk bridge over water	The black dog is walking along a tree trunk bridge over water	4.9
+A dog is crossing a river on a bridge made from a fallen tree	There is no dog crossing a river on a bridge made from a fallen tree	2.8
+The black dog is walking along a tree trunk bridge over water	A tree is falling over a bridge made over the river which a dog is crossing	3.6
+A young lady in a bikini is lying on the beach	A young lady in a bikini is standing on the beach	4.2
+A young boy is playing in the park with his mother	A boy in blue is running towards a woman in blue	2.9
+A little boy with brown hair is jumping off of a brown chair onto the floor	A young boy is quickly jumping off a chair	4.1
+The children are not wearing black tights and are not hopping	Two kids are bouncing on colorful balls	2.6
+The blonde girl with the pink top is smiling and wearing funny glasses with a large nose attached	The blonde girl with the pink top is not smiling and not wearing funny glasses with a large nose attached	3.3
+A man is spraying a super soaker into the mouth of a dog	The man is spraying a super soaker into the mouth of the dog	4.9
+There is no man spraying a super soaker into the mouth of a dog	A man is squirting water into the mouth of a white dog with a squirt gun	2.9
+A man is spraying a super soaker into the mouth of a dog	There is no man squirting water into the mouth of a white dog with a squirt gun	3.1
+A child is experiencing a new world	A boy under an umbrella is being held by his father who is wearing a coat dyed in blue	1.8
+A light brown dog is running up a street	The light brown dog is running up a street	5
+A great dog is wildly climbing a steep hill	A light brown dog is running up a street	2.8
+People are walking through a crowded street	A man and a woman are idling in a city street	2.8
+The big surfer is riding and waving	The surfer is riding a big wave	3.3
+A surfer is riding a big wave across dark green water	The big surfer is riding and waving	3.7
+There is no tennis player lunging to the left	A tennis player with a green headband is hitting the ball	3.4
+Some dogs are playing in a stream	Two dogs are looking at something that is moving in the water	3.2
+A man on a motorcycle is riding on a track and waving happily	A man on a motorcycle is riding on a track and waving	4.6
+A man on a motorcycle is riding on a track and waving	The person on the motorcycle is holding up his arm	4
+A man is riding a dirt bike down a dirt hill	A person is riding a dirt bike down a dirt hill	4.7
+A man in blue is riding a animal on a dirt road	A man in a blue cowboy hat is riding a white horse	3.4
+Three people are driving ATVs	ATVs are being driven by three people	5
+Three people are driving ATVs	There are no people driving ATVs	3.2
+Three people are driving four wheel ATVs in a field	ATVs are being driven by three people	4.6
+Two white dogs are playing with a brown dog and a tennis ball	Two white dogs are playing with a brown dog and a ball	4.7
+Two white cats are playing with a brown dog and a ball	Two white dogs are playing with a brown dog and a ball	3.6
+The white rally car is throwing mud into the air and is approaching a bend in the track	A white rally car is throwing mud into the air and is approaching a bend in the track	4.9
+A white rally car is throwing mud into the air and is approaching a bend in the track	There is no white race car driving through a puddle	3.3
+A dog is running through a field and is chasing a ball	A dog is running towards a ball	4.1
+Four athletes are with a man in a crowded stadium	A person in a pink jacket is not running onto the field	1.2
+A boy in a white t-shirt is splashing in shallow water	A boy is running through the sea at the beach	3.3
+Two football players are scrambling for the ball on the court	Two basketball players are scrambling for the ball on the court	3
+A basketball player is on the court floor and another one is grabbing the ball	Two basketball players are scrambling for the ball on the court	4.3
+The white dogs aren't looking curiously at the black llama	The white dogs are looking curiously at the black llama	3.7
+A black sheep is standing near three white dogs	A black sheep is standing far from three white dogs	3.5
+The man surrounded by photographers is wearing a gray suit and glasses	A man in a suit is not being surrounded by photographers	3.6
+A photographer is being surrounded by men	The man surrounded by photographers is wearing a gray suit and glasses	2.8
+The kids are not wearing suits and water is splashing around	Children in swimming suits are playing in the water	2.8
+Children in swimming suits are playing in the pool	The kids are wearing bathing suits and water is splashing around	4
+A blonde girl is hanging by gymnastic ropes	A blonde man is hanging by gymnastic ropes	3
+A brown and white dog is playing on the lawn	A dog is playing on the green grass	4.3
+A brown and white dog is playing on the grass	A dog is playing in the green field	3.6
+A young boy is jumping into a still lake	The young boy in the blue shirt is jumping into the water	3.9
+Two people are carrying gray baskets and blankets and walking near a building	Two people are walking with laden baskets and blankets	4.2
+A white dog is running through a snowy trail	A dog is running on a snowy path	4.3
+Two boys are doing martial arts on a blue mat	Two boys in white outfits and red protective gear are sparring on a mat	3.4
+A black and white dog is playing with a ruined volleyball in a brown field	A black and white dog is playing with a broken volleyball	4.3
+Two kids and a man are playing games at an arcade	A family is purchasing something at the vending machine	1.3
+A female cheerleader is sitting on the knee of a male cheerleader	Some cheerleaders are relaxing	3
+A female cheerleader is sitting on the knee of a male cheerleader	Some cheerleaders are taking a break	3.5
+The girl in blue is chasing the base runner with a number on the jersey	The girl in blue is chasing the player with a number on the jersey	4.4
+The girl in blue is chasing the base runner with a number on the jersey	The man in blue is chasing the base runner with a number on the jersey	3.3
+A rocky wall is climbed by a man in a purple hat with bare hands	The young man is rock climbing	4.2
+Adults and children are standing and playing in front of steps near a desert area	Adults and children standing and playing in front of steps near a wooded area	3.6
+The adults and children are being grouped near an outdoor seating arrangement	The adults and children are being gathered near an outdoor seating arrangement	5
+The adults and children are being gathered near an outdoor seating arrangement	Adults and children standing and playing in front of a stair near a wooded area	2.8
+The adults and children are being gathered near an outdoor seating arrangement	Adults and children are standing and playing in front of steps near a desert area	3.1
+There is no girl with black and orange patches on the cheeks	A girl is standing in a group and is wearing a black shirt and pink beads	2.6
+Two large dogs are frolicking in a grassy field	Two large dogs are frolicking in a field	4.7
+Two large dogs are frolicking in a field	Two dogs are running through high grass	3.9
+A black dog is running across a rocky landscape	A black dog is moving along rocky terrain	4.3
+Three small dogs are sniffing at something	Three dogs are resting on a couch	2.3
+Three small cats is sniffing at something	Three dogs are resting on a sidewalk	1.7
+An older man and a woman are riding bikes on the boardwalk near the ocean	An older man and a woman are riding bikes on the boardwalk near the water	4.9
+An older man and a woman are riding bikes on the boardwalk near the ocean	A middle aged man and woman are riding bikes down a road beside the water	3.9
+A soccer player is sitting on the field and is drinking water	Water is being drunk by a soccer player sitting on the field	4.8
+A man is sitting on the grass and drinking from a water bottle	A woman is sitting on the grass and is drinking from a water bottle	4
+A chubby faced boy is wearing sunglasses	A boy is wearing sunglasses	4.3
+A young boy with painted face is standing next to some other children	A young girl with painted face is standing next to some other children	3.3
+Dogs are racing on a track	There is no dog racing on a track	3
+A horse is racing	There is no dog racing on a track	2.7
+There is no bmx biker jumping dirt ramps in front of a body of water	Some bikers are getting airborne on a track near water and a skyline	3.2
+A woman is doing a skateboard trick on an outdoor park porch	A man is doing a skateboard trick on an outdoor park porch	3.9
+A racer in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle	A racer in full gear wears a helmet with sponsor logos and is riding a blue sport motorcycle	4.3
+A boy is jumping off the side of a stone water fountain in front of a building	A boy in a striped shirt is jumping behind a water fountain	3.4
+A bald man in a band is playing an instrument in the spotlight	A man is playing guitar next to a drummer	3.4
+A black dog is jumping off a dock into a pond	A black dog is jumping from a dock into the water	4.6
+A little girl is smiling and running out of the house	A little girl is smiling and running outside	4.4
+A little girl is smiling and running out of the house	A girl in a white dress is running	3.7
+A skier in black is catching a tiny bit of air	A skier dressed in black is catching a tiny bit of air	4.9
+A man on a motorcycle is turning around a corner	A man on a motorcycle is going around a corner	4.9
+A young occidental girl is standing above the crowd and is playing with a pinwheel	A young oriental girl is standing above the crowd and is playing with a pinwheel	4.2
+A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of an old man with grey hair	A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair	4.6
+A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair	A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a woman with grey hair	4.085
+Two people are sitting on a park bench on a sunny day	Two people are sitting on a park bench on a rainy day	3.2
+Two women dressed in white and black are relaxing on a bench	Two women dressed in white and black are sitting on a bench	4.2
+A tan dog is splashing in the water on the bank of a pond	A light brown dog is running in the grass	2.3
+A toddler is making a splash outside a blue paddling pool	The child is splashing water in a small blue pool	4.2
+A grey silky dog is running in the grass and a brown dog looks on	A grey silky dog is lying in the grass and a brown dog is looking on	4.3
+The brown dog is spotting a black dog and is playing in the dry grass	A grey silky dog is lying in the grass and a brown dog is looking on	2.4
+A dog is rolling on the ground	A dog is sleeping on the ground	3.8
+A dirty tan dog is rolling in the water and looking right at the camera	A dirty tan dog is rolling in the dirt and looking right at the camera	3.8
+A man with a white hat and brown shirt is behind a woman in red and is looking to the right	An Arabic man is wearing a white hat	3.1
+People are sitting against a wall	Five adults are sitting on steps made of stone	3.1
+People are grouping at a stand at the fair	The people are standing at a carnival	3.6
+A dog with very long hair is being showed by a woman at a dog show	A woman is marching with a pair of dogs	3.1
+A skateboarder is making a jump off a ramp	No skateboarder is making a jump off a ramp	3.3
+Three children are running down hill	Three kids are running down hill	4.8
+Three children are running down a hillside covered by grass	Three children are running down hill	4.3
+Three children are running down a grassy hillside	Three kids are running down hill	4.8
+A white bird with a yellow beak is standing in the green grass	A black bird with a yellow beak is standing in the green grass	3.8
+A man without a shirt is posing with the arms spread next to a woman	A man without a shirt is posing with the arms spread near a woman	4.7
+A young couple is lying on a couch together	A young couple is lying in bed	3.4
+People are crossing a rope bridge over a rocky stream	Three people are walking across a rope and wood bridge over a river	3.7
+A boy is wearing a yellow jacket and is jumping down from a rock	A child is wearing a yellow jacket and is jumping down from a rock	4.6
+A boy is wearing a yellow jacket and is jumping down from a rock	A young boy is jumping into water	2.7
+A child is wearing a yellow jacket and is jumping down from a rock	A young boy is jumping into water	2.6
+Three men are lying on a hill and looking at the mountains and sky	Three men are sitting on a hill and looking at the mountains and sky	4.2
+A girl is skipping rope in a park	A girl is skipping rope on a sidewalk	4
+A young girl is jumping rope on a sidewalk near a parking garage	A girl is jumping rope on a sidewalk near a parking garage	4.7
+A young girl is jumping rope on a sidewalk near a parking garage	A girl is skipping rope on a sidewalk	4.1
+A dog is swimming in a body of water	An animal is swimming in a body of water	4.5
+An animal is swimming in a body of water	A brown dog is standing in a lake	3.5
+A brown dog is standing in the water	A dog is swimming in a body of water	3.2
+A brown dog is standing in a lake	A dog is swimming in a body of water	3
+A boy is wearing all black and is sliding down a blow up yellow slide	A girl is wearing all black and is sliding down a blow up yellow slide	3.8
+A boy is wearing all black and is sliding down a blow up yellow slide	A girl is speeding down a steep slide	2
+A boy is speeding down a steep slide	A boy is wearing all black and is sliding down a blow up yellow slide	3.9
+A man with a white moustache is standing on a balcony and is looking at the road below	A man is hanging on the ledge of a balcony	3.4
+A brown and white dog with a brown and black bandanna is running very fast	A small white dog is running in a lawn	2.9
+The dog is on a leash and is walking out of the water	The dog is on a leash and is walking near the water	3.9
+The dog is on a leash and is walking out of the water	A black dog on a leash is walking in the water	3.6
+A child is not wearing a coat and is carrying a red sled behind a child in a green and black coat	A child is wearing a coat and is carrying a red sled behind a child in a green and black coat	3.8
+A little girl in a green coat and a boy holding a red sled are walking in the snow	A child is wearing a coat and is carrying a red sled behind a child in a green and black coat	3.7
+A boy is sitting on the ground	A toddler is sitting down	3.3
+A boy is sitting on the ground	A boy is sitting in a seat	3.7
+Dirt bikers are riding on a trail	Two people are not riding motorbikes	2.7
+A couple is not looking at a map	A man and a woman are standing in front of an art gallery and are looking at a map	3
+A man and a woman are standing in front of an art gallery and are looking at a map	A couple is looking at a map	4.2
+No little dog is running on the sand	The dog is running across the gravel	3.2
+One girl in orange shorts is standing on a rock cliff over the water and the other girl in black shorts is jumping off into the water	One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water	3.9
+A boy in blue shirt is looking at his hand near a stack of blocks on table	The boy in blue shirt is looking at his hand near the stack of blocks on table	4.9
+A woman is standing at the beach with a dog on a leash	A woman in a bikini is pulling a dog on a leash at the seashore	3.8
+A group of five young adults are lounging in the room	A small group of people are standing and two are sitting on the couch	3.8
+A big group of people are standing and two are sitting on the couch	A group of five young adults are lounging indoors	3.5
+A dog has its head outside a red and green gift bag	The red and brown dog is digging its nose inside a holiday gift bag	3.5
+A cyclist is biking in a snowy forest in the dark	The rider is biking in the snow and wearing a red jacket	3.3
+A cyclist is biking in a snowy forest at night	The man is biking in the snow and wearing a red jacket	4
+A girl with a bikini is playing in the dunes	A girl with a bikini is playing in the sand	4.6
+A girl with a bikini is playing in the dunes	A young girl in a bikini is sitting on the beach	4
+A boy is wearing a white hat and is running on the beach	A little kid is wearing a hat and is walking in the dry sand	3.7
+A man in a white hat is touching a cardboard box	A man in a black hat is touching a cardboard box	3.7
+A young girl with a heart tank top is raising her hands as she is playing on a slide	A young girl with a heart tank top is raising her hands as she is sliding	4.7
+Two dogs are playing on a beach	Two dogs are playing in a forest	3.7
+A brown dog is running after a black dog on a rocky shore	A brown dog is running after a dark dog on a rocky shore	4.6
+Two dogs are playing in a forest	A brown dog is running after a black dog on a rocky shore	2.3
+Two dogs are playing on a sandy beach	Two dogs are playing on a rocky beach	3.965
+A black animal is approaching a golden dog on pebbly beach	Two dogs are playing on a rocky beach	3.3
+A dog is standing on a mountain	A white dog is standing on a grassy hillside	3.5
+Two children are rolling in muddy water	Two boys are laying in the ocean close to the beach	2.8
+A black and brown dog is eyeing a fly	A black and brown dog is eyeing an insect	4.5
+A brown and black dog is pointing the nose upwards	A brown and black dog is pointing the nose downwards	3.7
+A veteran is showing different things from a war to some people	A small man is sitting in a military accessories store	2.5
+A boy next to some buckets of rags is holding an object	A boy next to some buckets of rags is not holding an object	3
+Two little boys are playing outside with a soccer ball on the green grass	Children are playing outside with a soccer ball on the green grass	4.4
+Two little boys are playing outside with a soccer ball on the green grass	There are no little boys playing outside with a soccer ball on the green grass	3.2
+Two little boys are playing outside with a soccer ball on the green grass	Two children are playing soccer in the park	4
+A girl with Indian clothing and henna on her hand is going through paperwork	The woman is wearing a colorful shirt and a lot of jewelry	2.4
+The snowboarder is not jumping off a snow covered hill	The snowboarder is jumping off a snow covered hill	3.8
+The snowboarder is jumping off a snow covered hill	The snowboarder is jumping off the snow	4.6
+A woman in a black dress is pulling a cart and is standing in front of two men who are seated on a park bench	A boy is wearing a black dress and is carrying a white cross	2.4
+A boy in a swimsuit is sitting on top of a circular fountain	A boy in a swimsuit is sitting on a circular fountain	4.5
+A yellow cat is chasing a ball	A yellow dog is chasing a ball	3.4
+There is no dog turning on the grass and pursuing a flying ball	A dog is turning on the grass and pursuing a flying ball	4.4
+A man in blue jeans is standing in front of a group of children beside a stone built house	A woman in blue jeans is standing in front of a group of children beside a stone built house	3.5
+A girl in a uniform is playing the flute with a marching band	A girl in a uniform is not playing the flute with a marching band	2.8
+A woman is sitting near a flower bed and is overlooking a tunnel	Two people are sitting on a bench	1.5
+A black dog and a yellow dog are playing with each other	Two cats are in a kennel on their hind legs and are facing one another	2.1
+Two women with dogs are walking on a forest path	Two girl with dogs are walking on a forest path	4
+Two construction workers are sitting up on the side of a palace	Two construction workers are sitting up on the side of a building	4.1
+Two men are taking a break from work	Two construction workers are sitting up on the side of a building	3.2
+A snowboarder is grinding down a long concrete rail	A snowboarder is grinding down a long rail	4.2
+A person is doing acrobatics on a snowboard	A person is doing a trick on a snowboard	4.5
+A snowboarder is grinding down a long concrete rail	A person is doing acrobatics on a snowboard	3.3
+A person is not doing a trick on a slide	A snowboarder is grinding down a long concrete rail	1.7
+Three friends are making faces for the camera	Three friends are making faces for a photo	5
+Two men and a girl in front of a wood panel wall are posing with funny faces	Three enemies are making faces for the camera	2.8
+A man is standing at dusk on an almost pristine road covered by snow, that is lit only by headlights	A person is standing in the snow at the edge of a mountain	3.6
+Three women are sitting together near woven walls	Three men are sitting together near woven walls	3.6
+A surfer in a black wetsuit is riding a foamy wave	A surfer in a white wetsuit is riding a foamy wave	4.2
+A man in a black wetsuit is riding a foamy wave	A surfer is surfing a huge wave	3.9
+A surfer in a black wetsuit is riding a foamy wave	A surfer is surfing a huge wave	4.1
+A kid is splashing in the ocean	A kid is splashing in the water	4.1
+A kid is splashing in the ocean	Two children are not playing in the surf	3.2
+A man is wearing a purple shirt and black leather chaps and is posing for the camera	A model is wearing a purple shirt and black leather chaps and is posing for the camera	4.4
+The man dressed in leather chaps and a purple shirt is standing in front of someone lookers	A man is not wearing a purple shirt and black leather chaps and is posing for the camera	3.8
+A dog is in an area full of sand, with the sand that is being stirred up into the air and several plants are in the background	A dog is in the sand that is blowing in the wind	3.765
+A dog is in the sand that is blowing in the wind	A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background	4.3
+The black and white dog is running in a field	The black and white dog is running outdoors	4.4
+A dog is jumping in the shade of some trees	A dog is jumping on a trees in the shades	3.6
+A kid is sitting wearing swim gear	A young swimmer is standing in a bathing suit and waiting for the next race	3.4
+A kid is sitting wearing swim gear	A young swimmer is sitting in a bathing suit and waiting for the next race	3.7
+A cluster of four brown dogs are playing in a field of brown grass	There is no dog playing in a field of brown grass	2.1
+The dog is having a rest in the park	The dog is having a rest in the living room	3.7
+Two men are walking through the water	Two men are standing in the ocean	3.5
+Two race cars are on a road in front of a grassy parking area	No race car is on a road in front of a grassy parking area	3.1
+A group of children is not playing tambourines	A group of children in a church basement is playing maracas and tambourines	3.6
+A black dog is running in the snow	A dog is running through the snow	4.5
+A dog is fetching a piece of wood out of very clear water	A dog is fetching a stick out of very clear water	4.7
+A yellow dog is running down a path covered by sand	A golden retriever is running	3.6
+There is no black and white dog jumping for a ball	A black and white dog is jumping for a ball	3.2
+A barefoot man in pajamas is looking toward the sky and is standing on the tennis court	A man is wearing a blue shirt and walking barefoot on a tennis court	3.4
+A man is standing in the water at the base of a waterfall	The man is standing in a lake near a waterfall	4.1
+No dog is emerging from a lake	A brown and white dog is running through the river	2.7
+A brown and white dog is catching a dirty tennis ball in a dirt field	A brown and white dog is biting a dirty tennis ball in a dirt field	4.1
+A dog is running on the sand and chasing a ball	A dog is running on the grass and chasing a ball	3.6
+A shirtless man is leading a horse that is pulling a carriage	A shirtless man is leading a carriage that is being pulled by a horse	4.6
+The girl is wearing an orange shirt and a striped tie	A girl is wearing an orange shirt and a striped tie	4.9
+A girl is wearing an orange shirt and a striped tie	A boy is wearing an orange shirt and a striped tie	3.4
+A girl is wearing an orange shirt and a striped tie	A girl in an orange shirt and clown makeup is standing in a park and others are looking on	3.6
+There is no cyclist performing a jump on a bicycle	A bicyclist is performing a trick over a heavily graphitized wall	3.4
+A man is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk	A woman is showing a small dog to an infant	2.5
+A motorcycle racer is riding a red and black bike	A man is leaning on a racing motorcycle	3.4
+A dog is running on concrete and is holding a blue ball	The large dog is walking outside and is holding a colorful toy in its mouth	3.5
+A white dog on a leash is walking in the water	A shirtless man is playing football on a lawn	1
+A large brown dog is jumping over a red hurdle	A young man is running away from the fishing line	1
+A man is sitting comfortably at a table	A brown dog is running in the snow	1.3
+The man is playing the drums	The black bird is sitting in a leafless tree	1
+A boy is standing in a room by a lamp light	A small group of people are standing and two are sitting on the couch	2.2
+A big dog and a small white dog are playing together	Two construction workers are sitting up on the top of a building	1
+A man is sitting on the lawn and drinking from a water bottle	The women are dancing outside	1
+A woman is breaking eggs	A shirtless man is posing with a girl who is hiking in a park	1
+A man with tattoos is lounging on a couch and is looking for a pencil	A cow is eating hay	1
+A toddler is playing with a plastic scooter toy	A woman in blue has a yellow ball in the mitt	1
+Two men are fighting	A woman is dipping a prawn in batter	1
+A fearful little boy is on a climbing wall	The man is sitting next to a birdcage	1.1
+The girl is trotting on the horse	A man on a motorcycle is not riding on one wheel	1
+There is no woman beating two eggs in a bowl and using a whisk made of wire	A man wearing a dyed black shirt is sitting at the table and laughing	1.2
+A child is playing with a water spout outdoors and the rest of his family is watching	A man is standing beside a birdcage which is large and colorful	1.4
+The man is using a sledgehammer to break a concrete block that is on another person	A man and a woman are walking together through the woods	1
+A boy is being knocked into the water by the dog	A person in a motocross uniform is wearing a helmet and rides a red motorcycle	1
+The man is rock climbing	A man is cooking a snake	1
+A woman is taking two eggs out of a pot of water	A person is buttering a tray	1.8
+A cat is playing keyboards	There are no men fighting	1.1
+The cat isn't licking milk from a saucer	A dog is swimming in a lake and the sun is shining on him	1
+A dog is fetching a stick out of very dirty water	The woman is adding sugar to the meat	1
+A dog in a colored coat is running across the yard	A black and brown dog is eyeing an insect	2.2
+A brown and white coat is floating across shallow water near a trotting dog	A woman is brushing her feet	1
+The people are walking on the road beside a beautiful waterfall	There is no brown dog and black dog playing in the sand	1
